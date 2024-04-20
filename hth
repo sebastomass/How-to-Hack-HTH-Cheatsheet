@@ -4,4 +4,4 @@ hth() {
 	echo "Hola mundo"
 }
 
-hth()
+hth
