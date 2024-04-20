@@ -1,1 +1,1 @@
-# How-to-Hack-HTH-Cheatsheet
+# HowtoHack (HTH Cheatsheet)
