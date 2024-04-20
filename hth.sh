@@ -4,4 +4,4 @@ hth() {
 	echo "Hola mundo"
 }
 
-alias hth="hth"
+hth()
