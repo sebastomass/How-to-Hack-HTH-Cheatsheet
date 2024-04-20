@@ -4,10 +4,10 @@
 wget https://raw.githubusercontent.com/sebastomass/How-to-Hack-HTH-Cheatsheet/main/hth.sh
 
 # Dar permisos de ejecución al script descargado
-chmod +x hth.sh
+sudo chmod +x hth.sh
 
 # Mover el script a un directorio donde esté en el PATH del usuario
-mv hth.sh /usr/local/bin/
+sudo mv hth.sh /usr/local/bin/
 
 # Agregar el alias al archivo de perfil de shell
 echo "alias hth=\"hth.sh\"" >> ~/.bashrc
